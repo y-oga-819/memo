@@ -1,7 +1,7 @@
 # memo
-VSCodeで日報テキストファイルを開く
-・存在しない場合、memo_YYYYMMDD.md が作成してVSCodeを起動します
-・既に作成済みの場合、memo_YYYYMMDD.mdを作成してVSCodeを起動します
+- VSCodeで日報テキストファイルを開く
+  - 存在しない場合、memo_YYYYMMDD.md が作成してVSCodeを起動します
+  - 既に作成済みの場合、memo_YYYYMMDD.mdを作成してVSCodeを起動します
 
 ## install
 ```
